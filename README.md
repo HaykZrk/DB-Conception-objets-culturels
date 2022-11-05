@@ -14,5 +14,6 @@ Ce projet est dédié à l'UE "Bases de données 2" qui a pour objectif de conce
 
 ## Auteurs
 Partie 1 individuel
+
 Partie 2 : Hayk ZARIKIAN et Alexandre DUBERT
 
