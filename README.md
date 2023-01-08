@@ -11,6 +11,10 @@ Ce projet est dédié à l'UE "Bases de données 2" qui a pour objectif de conce
 - Contraintes statiques
 
 ## Partie 2
+- Requêtes SQL
+- Procédures et fonctions PL/SQL
+- Déclencheurs
+- Scripts et Tests
 
 ## Auteurs
 Partie 1 individuel.
